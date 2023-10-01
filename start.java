@@ -103,3 +103,4 @@ findAll(Example<S> example, Sort sort): Cette méthode permet de rechercher tout
 @NoRepositoryBean: Cette annotation indique que JpaRepository est une interface de base pour les autres interfaces de repository spécifiques à votre application. Elle n'est pas destinée à être utilisée directement comme un repository, mais plutôt à être étendue pour créer des interfaces de repository spécifiques.
 
 */
+// Lundi 2 octobre 2023
